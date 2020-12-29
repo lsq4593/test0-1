@@ -1,4 +1,10 @@
 # 忽略index.html文件
-index.html
+# index.html
 # 忽略test目录下所有的文件
-test/
+# test/
+
+# 忽略所有txt文件
+# *txt
+# 取反
+#*.txt
+#!test/
